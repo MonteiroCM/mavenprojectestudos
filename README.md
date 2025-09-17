@@ -114,8 +114,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 👨‍💻 Autor
 
 **Clayton Monteiro**
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Clayton Monteiro](https://linkedin.com/in/clayton-monteiro)
+- GitHub: [@MonteiroCM](https://github.com/MonteiroCM)
 
 ---
 
